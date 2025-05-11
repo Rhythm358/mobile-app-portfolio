@@ -1,0 +1,4 @@
+User-Agent:*
+Disallow:
+
+Sitemap:https://ss529678.stars.ne.jp/sitemap.xml
